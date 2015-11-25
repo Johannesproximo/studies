@@ -404,7 +404,7 @@ Untersuche die Eigenschaften des Betriebssystem Linux! Lese dazu die Manualseite
 
 #### Solution
 
-[http://openbook.galileocomputing.de/linux\_unix\_programmierung/Kap07-002.htm\#RxxKap07002040001F91F041100](Galileo Unix-programmierung)
+[http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/Kap07-002.htm#RxxKap07002040001F91F041100](Galileo Unix-programmierung)
 
 Infos vorab:
 
