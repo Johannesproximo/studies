@@ -455,6 +455,7 @@ Kernel-Objekte repräsentieren Windows-Ressourcen, die von Applikationen verwen
 
 Erläuter für die Objekte File, Mutant, Directory und Event welche Betriebsmittel diese repräsentieren und welche Funktionalität sich dahinter verbirgt.
 
+[https://msdn.microsoft.com/en-us/library/windows/desktop/ms724515%28v=vs.85%29.aspx](Object Categories - Microsoft defelopment center)
 
 #### Solution
 
