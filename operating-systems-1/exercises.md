@@ -321,7 +321,7 @@ Untersuche Eigenschaften des Betriebssystems Windows mit Hilfe des Performance M
 
 #### Solution
 
-[http://www.tecchannel.de/webtechnik/entwicklung/402403/know\_how\_windows\_performance\_counter/index4.html](Howto performance counter)
+[http://www.tecchannel.de/webtechnik/entwicklung/402403/know_how_windows_performance_counter/](Howto performance counter)
 
   
 Zähler | Bedeutung dieses Zählers
